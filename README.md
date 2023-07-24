@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/rohit j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit j" height="50" width="50" /></a>
 </p>
 </div>
-<hr>
 <div>
 <h3 align="left">Languages and Framewroks:</h3>
 <p align="left">
@@ -22,14 +21,16 @@
 </a>
 </p>
 </div>
-<hr>
-
+<div>
 <h3 align="left">Databses and tools:</h3>
-<p align="left"><img align="left" alt="Postgresql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<p align="left">
+<a>
+<img align="left" alt="Postgresql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Mongodb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Mysql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+</a>
 </p> 
-<hr>
+</div>
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit10jr&show_icons=true&locale=en&layout=compact" alt="rohit10jr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit10jr&show_icons=true&locale=en" alt="rohit10jr" /></p>
