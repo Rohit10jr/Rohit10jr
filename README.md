@@ -18,10 +18,10 @@
  
 <h3 align="left">Framewroks:</h3>
 
-<a><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="70"/></a>
-<a><img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="70"/></a>
+<a><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="70"/></a>|
+<a><img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="70"/></a>|
 <a><img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png" alt="flask" width="50" height="70"/></a>
- 
+|--|--|--|--|--|--|--| 
 <h3 align="left">Tools:</h3>
  
  <img alt="Ubuntu" width="30px" src="/Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
