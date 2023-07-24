@@ -18,15 +18,14 @@
 <img align="left" alt="Django rest" width="50px" style="padding-right:10px;" src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="70"/>
 <img align="left" alt="Flask" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/></p>
 </div>
-<br>
-<div>
+<hr>
+
 <h3 align="left">Databses and tools:</h3>
 <p align="left"><img align="left" alt="Postgresql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Mongodb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Mysql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </p> 
-</div>
-<br>
+<hr>
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit10jr&show_icons=true&locale=en&layout=compact" alt="rohit10jr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit10jr&show_icons=true&locale=en" alt="rohit10jr" /></p>
