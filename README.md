@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Welcome to my Github! I'm a passionate developer who loves being involved in communities. I like Coding and I'm exploring backend and frontend tech. All my projects and codes are here any feedback is welcome!</h3>
 <hr>
-<br>
 <div>
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
@@ -44,7 +43,6 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit10jr&" alt="rohit10jr" /></p>
 </div>
-<br>
 <br>
 <details>
  <summary><h3>👨‍💻 Rohit's Coding Journey</h3></summary>
