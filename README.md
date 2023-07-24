@@ -8,10 +8,7 @@
 <a href="https://linkedin.com/in/rohit j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit j" height="50" width="50" /></a>
 </p>
 
-
-## My Skills <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
-
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languagesand Framewroks:</h3>
  
  <img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>
  |--|--|--|--|--|--|--|
@@ -21,11 +18,7 @@
 <a><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="70"/></a>|
 <a><img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="70"/></a>|
 <a><img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png" alt="flask" width="50" height="70"/></a>
-|--|--|--|--|--|--|--| 
-<h3 align="left">Tools:</h3>
- 
- <img alt="Ubuntu" width="30px" src="/Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
- |--|--|--|--|
+
 
 <h3 align="left">Others:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
