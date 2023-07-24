@@ -1,6 +1,7 @@
 ![logo](https://github.com/Rohit10jr/Rohit10jr/blob/main/coding%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A budding passionate backend developer.</h3>
+<h3 align="center">Welcome to my Github! I'm a passionate developer who loves being involved in communities. I like Python and I'm exploring backend and frontend tech
+</h3>
 
 <div>
 <h3 align="left">Languages and Frameworks:</h3>
