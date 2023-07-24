@@ -8,16 +8,16 @@
 <a href="https://linkedin.com/in/rohit j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit j" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languagesand Framewroks:</h3>
- 
- <img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>
- |--|--|--|--|--|--|--|
+<h3 align="left">Languages and Framewroks:</h3>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<a><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="70"/></a>
+<a><img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="70"/></a>
+<a><img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png" alt="flask" width="50" height="70"/></a>
+
  
 <h3 align="left">Framewroks:</h3>
 
-<a><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="70"/></a>|
-<a><img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="70"/></a>|
-<a><img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png" alt="flask" width="50" height="70"/></a>
 
 
 <h3 align="left">Others:</h3>
