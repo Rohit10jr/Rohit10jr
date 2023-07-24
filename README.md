@@ -18,9 +18,9 @@
  
 <h3 align="left">Framewroks:</h3>
 
- 
- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss-icon.svg"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Bulma" width="30px" src="/Assets/bulma.svg"/>
- |--|--|--|--|
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+<img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="50"/>
+<img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" alt="flask" width="50" height="50"/>
  
 <h3 align="left">Tools:</h3>
  
