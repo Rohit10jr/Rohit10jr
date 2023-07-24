@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Welcome to my Github! I'm a passionate developer who loves being involved in communities. I like Python and I'm exploring backend and frontend tech
 </h3>
-
+<hr>
 <div>
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
