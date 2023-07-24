@@ -9,14 +9,15 @@
 </p>
 
 <h3 align="left">Languages and Framewroks:</h3>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<a><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="70"/></a>
-<a><img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="70"/></a>
-<a><img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png" alt="flask" width="50" height="70"/></a>
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Css" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" alt="Django rest" width="50px" style="padding-right:10px;" src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="70"/>
+<img align="left" alt="Flask" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
 
  
-<h3 align="left">Framewroks:</h3>
+<h3 align="left">Databses and others:</h3>
 
 
 
