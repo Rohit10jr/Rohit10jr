@@ -2,14 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A budding passionate backend developer.</h3>
 
-
-<div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit j" height="50" width="50" /></a>
-</p>
-</div>
-
 <div>
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
@@ -36,6 +28,13 @@
 </a>
 </p> 
 </div>
+<div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohit j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit j" height="50" width="50" /></a>
+</p>
+</div>
+
 <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit10jr&show_icons=true&locale=en&layout=compact" alt="rohit10jr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit10jr&show_icons=true&locale=en" alt="rohit10jr" /></p>
