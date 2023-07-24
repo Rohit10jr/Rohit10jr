@@ -47,5 +47,5 @@
 <details>
  <summary><h3>👨‍💻 Rohit's Coding Journey</h3></summary>
    I started my coding journey after failing to generate revenue from a website that I built. As a tech 
-enthusiast and with some prior coding knowledge I wanted to learn everything about web development. All the while, teaching myself backend development and now trying out frontend technologies.
+enthusiast and with some prior coding knowledge I wanted to learn everything about web development. After learning backend development with some guidance and help, now I have started my journey to take on frontend technologies.
 
