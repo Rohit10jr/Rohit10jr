@@ -25,6 +25,13 @@
 </div>
 
 <div>
+<h3 align="left">Database and tools:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohit j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit j" height="50" width="50" /></a>
+</p>
+</div>
+
+<div>
 <h3 align="left">Databses and tools:</h3>
 <p align="left">
 <a target="blank">
