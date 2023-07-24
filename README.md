@@ -12,7 +12,7 @@
 <img align="left" alt="Django" width="60px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg"/
 <img align="left" alt="Django rest" width="60px" style="padding-right:10px;" src="https://www.django-rest-framework.org/img/logo.png"/>
 <img align="center" alt="Flask" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-</a>   
+ </a>   
 </p>
 </div>
 <br>
