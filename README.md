@@ -47,4 +47,4 @@
 <br>
 <details>
  <summary><h3>👨‍💻 Rohit's Coding Journey</h3></summary>
-   I started my coding journey after trying to build a website on Blogger. As a tech enthusiast with some prior coding experience, I wanted to master everything about web development. So I started learning backend development with some guidance and help.
+   I started my coding journey after trying to build a website on Blogger. As a tech enthusiast with some prior coding experience, I wanted to master everything about web development. So I started learning backend development with some help and guidance.
