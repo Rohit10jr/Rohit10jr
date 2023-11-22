@@ -16,7 +16,7 @@
 </p>
 </div>
 <br>
-<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <div>
 <h3 align="left">Databses and tools:</h3>
 <p align="left">
@@ -40,8 +40,8 @@
 <br>
 <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit10jr&show_icons=true&locale=en&layout=compact" alt="rohit10jr" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit10jr&show_icons=true&locale=en" alt="rohit10jr" /></p>
-<br>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit10jr&show_icons=true&locale=en" alt="rohit10jr" /></p> -->
+<!-- <br> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit10jr&" alt="rohit10jr" /></p>
 </div>
 <br>
