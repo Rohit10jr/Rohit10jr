@@ -17,11 +17,8 @@
 <a href="https://twitter.com/dev__sathish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev__sathish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/Rohit10jr217611a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Rohit10jr217611a0/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15811945/sathish-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15811945/sathish-kumar" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100014223993405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014223993405" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sp733172?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sp733172?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/sathish252199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sathish252199/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@sathishkumar_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@sathishkumar_developer" height="30" width="40" /></a>
-</p>
+
 
 ### 🧰 Languages and Tools:
 <!-- Backend -->
@@ -70,6 +67,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit10jr&theme=gruvbox&hide_border=false)<br/> 
 
 
-<!-- <h3 align="left">🤖 LeetCode:</h3>-->
+<h3 align="left">🤖 LeetCode:</h3>
 
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/Rohit10jr?theme=dark&font=Karla)-->
+![Leetcode Stats](https://leetcard.jacoblin.cool/Rohit10jr?theme=dark&font=Karla)
