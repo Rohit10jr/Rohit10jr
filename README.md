@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit J</h1>
 <h3 align="center">Passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathish-kumar-a&label=Profile%20views&color=0e75b6&style=flat" alt="sathish-kumar-a" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit10jr&label=Profile%20views&color=0e75b6&style=flat" alt="sathish-kumar-a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathish-kumar-a" alt="sathish-kumar-a" /></a> </p>
 
