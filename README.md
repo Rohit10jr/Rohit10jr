@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rohit J</h1>
 <h3 align="center">Passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathish-kumar-a&label=Profile%20views&color=0e75b6&style=flat" alt="sathish-kumar-a" /> </p>
