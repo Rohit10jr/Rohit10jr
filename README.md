@@ -14,10 +14,14 @@
 <h3 align="left">👨‍💻 Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/dev__sathish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev__sathish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/Rohit10jr217611a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Rohit10jr217611a0/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15811945/sathish-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15811945/sathish-kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sathish252199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sathish252199/" height="30" width="40" /></a>
+    
+<a href="https://www.linkedin.com/in/rohit-j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Rohit10jr217611a0/" height="30" width="40" /></a>
+    
+<a href="https://twitter.com/imrohit_jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev__sathish" height="30" width="40" /></a>
+    
+<a href="https://stackoverflow.com/users/21771560/rohit10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15811945/sathish-kumar" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/Rohit10jr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sathish252199/" height="30" width="40" /></a>
 
 
 ### 🧰 Languages and Tools:
