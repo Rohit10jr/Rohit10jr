@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=black&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Rohit+J;" />
 </h1>
 <!--#36BCF7FF alternate color-->
-<h3 align="center">💫 Passionate developer</h3>
+<!-- <h3 align="center">💫 Passionate developer</h3> -->
+<h3 align="center">💫 Python developer | Django | Flask | JavaScript | React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit10jr&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit10jr" /> </p>
 
