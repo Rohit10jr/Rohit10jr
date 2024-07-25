@@ -5,18 +5,18 @@
 <!-- <h3 align="center">💫 Passionate developer</h3> -->
 <h3 align="center">💫 Python developer | Django | Flask | JavaScript | React</h3>
 
-<h2>✨ About Me</h2>
+<h3>✨ About Me</h3>
 
 <p>
-  With a deep passion for web development and a focus on building robust and high-performing applications, I thrive on turning innovative ideas into exceptional user experiences. As a Full Stack Web Developer, I specialize in Python backend development and have extensive experience with popular frameworks like Flask, Tornado, and Django.
+  With a deep passion for web development and a focus on building robust and high-performing applications, I thrive on turning innovative ideas into exceptional user experiences. As a Full Stack Web Developer, I specialize in Python backend development and have extensive experience with popular frameworks like Django, and Flask.
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit10jr&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit10jr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit10jr" alt="Rohit10jr" /></a> </p>
 
 
 - 📫 How to reach me **rohitjworkspace@gmail.com**
+
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit10jr" alt="Rohit10jr" /></a> </p>
 
 <h3 align="left">👨‍💻 Connect with me:</h3>
 
