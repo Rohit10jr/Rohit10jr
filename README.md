@@ -68,9 +68,9 @@
 <!--[](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit10jr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Rohit10jr&show_icons=true&theme=tokyonight)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit10jr&theme=tokyonight&hide_border=false)<br/>-->
-
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit10jr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rohit10jr&show_icons=true&theme=gruvbox)<br>
+![](https://github-readme-stats.vercel.app/api?username=Rohit10jr&show_icons=true&theme=gruvbox)<br> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit10jr&theme=gruvbox&hide_border=false)<br/> 
 
 
