@@ -1,79 +1,48 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=black&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Rohit+J;" />
-</h1>
-<!--#36BCF7FF alternate color-->
-<!-- <h3 align="center">💫 Passionate developer</h3> -->
-<h3 align="center">💫 Python developer | Django | Flask | JavaScript | React</h3>
+<div align="center">
 
-<h3>✨ About Me</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00B8D9&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B+I'm+Rohit+J;" alt="Hi There! I'm Rohit J" />
 
-<p>
-  With a deep passion for web development and a focus on building robust and high-performing applications, I thrive on turning innovative ideas into exceptional user experiences. As a Full Stack Web Developer, I specialize in Python backend development and have extensive experience with popular frameworks like Django, and Flask.
-</p>
+**Software Engineer building backend systems, full-stack products, and agent-powered workflows.**
 
+</div>
 
-- 📫 How to reach me **rohitjworkspace@gmail.com**
+## 💫 About Me
 
-<br>
+- 👋 Hi, I'm Rohit, a software engineer focused on building practical web products and backend systems.
+- 👀 I'm interested in full-stack development, automation, AI agents, and tools that make real workflows faster.
+- 🌱 I'm currently improving my skills in scalable backend architecture, cloud-ready deployments, and agent-based systems.
+- 💞️ I'm looking to collaborate on useful SaaS products, developer tools, CRM systems, job platforms, and automation-heavy applications.
+- 📫 You can reach me through LinkedIn, email, or the links below.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit10jr" alt="Rohit10jr" /></a> </p>
+## Tech Stack
 
-<h3 align="left">👨‍💻 Connect with me:</h3>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p align="left">
-    
-<a href="https://www.linkedin.com/in/rohit-j/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Rohit10jr217611a0/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21771560/rohit10" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15811945/sathish-kumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Rohit10jr/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sathish252199/" height="30" width="40" /></a>
-<!--<a href="https://twitter.com/imrohit_jr" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev__sathish" height="30" width="40" /></a>-->
+<!--
+## Projects
 
-### 🧰 Languages and Tools:
-<!-- Backend -->
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="Flask" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img align="left" alt="djangorest" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
-<img align="left" alt="Fastapi" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+- 📝 **[Blog Platform](https://github.com/Rohit10jr/blog-platform)** - A personal publishing platform for writing, organizing, and sharing technical content.
+- 📣 **[Marketing Agent](https://github.com/Rohit10jr/marketing-agent)** - An agent workflow for planning campaigns, generating content, and supporting marketing execution.
+- 💼 **[JobNext Platform](https://github.com/Rohit10jr/jobnext-platform)** - A job platform for job seekers and employers with agent-assisted hiring workflows.
+- 🤖 **[Job Application Agent](https://github.com/Rohit10jr/job-application-agent)** - An agent that applies to jobs on behalf of users based on their profile and preferences.
+- 📇 **[CRM Platform](https://github.com/Rohit10jr/crm-platform)** - A customer relationship management system for tracking leads, accounts, and business activity.
+- 🗄️ **[SQL Query Platform](https://github.com/Rohit10jr/sql-query-platform)** - A database query workspace for running, managing, and understanding SQL queries.
+- 💬 **[WhatsApp Agent](https://github.com/Rohit10jr/whatsapp-agent)** - A future agent interface that can run useful workflows directly from WhatsApp.
+- 🔎 **[Auto Job Match Agent](https://github.com/Rohit10jr/auto-job-match-agent)** - A future agent that scrapes the web and applies to matching jobs for each user.
+-->
 
-<!-- Frontend -->
-<img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Css" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Sass" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="Html" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+## GitHub Activity
 
-<!-- Database -->
-<img align="left" alt="Mysql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Postgresql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Mongodb" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<div align="center">
 
-<!-- Git shell -->
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<!--<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
-<img align="left" alt="Powershell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-<br clear="left" />  
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Rohit10jr&hide_border=true)
 
-### 📊 GitHub Stats:
-<!--<h3 align="left">📊 GitHub Stats:</h3>-->
+</div>
 
-<!-- dark theme -->
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit10jr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-[](https://github-readme-stats.vercel.app/api?username=Rohit10jr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-[](https://github-readme-streak-stats.herokuapp.com/?user=Rohit10jr&theme=dark&hide_border=false)<br/>-->
+## Connect
 
-<!-- tokyonight theme -->
-<!--[](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit10jr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rohit10jr&show_icons=true&theme=tokyonight)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit10jr&theme=tokyonight&hide_border=false)<br/>-->
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit10jr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Rohit10jr&show_icons=true&theme=gruvbox)<br>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit10jr&theme=gruvbox&hide_border=false)<br/> 
-
-
-<h3 align="left">🤖 LeetCode:</h3>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Rohit10jr?theme=dark&font=Karla)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitjworkspace@gmail.com)
+[![X](https://img.shields.io/badge/-imrohit__jr-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/imrohit_jr)
+[![rohit.io](https://img.shields.io/badge/-rohit.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://rohit10jr.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-Rohit%20J-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-j/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohit10jr)
