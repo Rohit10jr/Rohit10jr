@@ -2,17 +2,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00B8D9&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B+I'm+Rohit+J;" alt="Hi There! I'm Rohit J" />
 
-**Software Engineer building reliable web applications, clean APIs, and practical user experiences.**
+**Software Engineer building backend systems, full-stack products, and agent-powered workflows.**
 
 </div>
 
 ## 💫 About Me
 
-I am a Python developer with a strong focus on backend engineering and full-stack web development. I enjoy turning ideas into robust, high-performing applications with clean architecture, practical APIs, and interfaces that feel simple to use.
-
-- Building web applications with **Python**, **Django**, **Flask**, **FastAPI**, and **React**
-- Working across REST APIs, database design, authentication, dashboards, and modern frontend workflows
-- Learning advanced web architecture, performance, cloud-ready deployment patterns, and scalable backend design
+- 👋 Hi, I'm Rohit, a software engineer focused on building practical web products and backend systems.
+- 👀 I'm interested in full-stack development, automation, AI agents, and tools that make real workflows faster.
+- 🌱 I'm currently improving my skills in scalable backend architecture, cloud-ready deployments, and agent-based systems.
+- 💞️ I'm looking to collaborate on useful SaaS products, developer tools, CRM systems, job platforms, and automation-heavy applications.
+- 📫 You can reach me through LinkedIn, email, or the links below.
 
 ## Tech Stack
 
