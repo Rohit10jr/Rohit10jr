@@ -6,7 +6,7 @@
 
 </div>
 
-## 💫 ✨ About Me
+## 💫 About Me
 
 I am a Python developer with a strong focus on backend engineering and full-stack web development. I enjoy turning ideas into robust, high-performing applications with clean architecture, practical APIs, and interfaces that feel simple to use.
 
@@ -39,6 +39,8 @@ I am a Python developer with a strong focus on backend engineering and full-stac
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-rohitjworkspace%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitjworkspace@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-j/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Rohit10-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21771560/rohit10)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitjworkspace@gmail.com)
+[![X](https://img.shields.io/badge/-imrohit__jr-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/imrohit_jr)
+[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://rohit10jr.github.io)
+[![LinkedIn](https://img.shields.io/badge/-Rohit%20J-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-j/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohit10jr)
