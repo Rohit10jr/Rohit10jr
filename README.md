@@ -43,6 +43,6 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitjworkspace@gmail.com)
 [![X](https://img.shields.io/badge/-imrohit__jr-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/imrohit_jr)
-[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://rohit10jr.github.io/)
+[![rohit.io](https://img.shields.io/badge/-rohit.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://rohit10jr.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-Rohit%20J-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-j/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohit10jr)
